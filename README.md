@@ -1,4 +1,4 @@
-Just simple color game with HTML, CSS and Js
+Just simple color game with HTML, CSS and JS.
 
 Game rules:
 3 digits appear on the screen, which are part of the rgb color.
